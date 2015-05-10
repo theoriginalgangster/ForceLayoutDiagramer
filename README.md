@@ -2,6 +2,12 @@
 
 **This project is still a work in progress and porbably won't be useful to anyone yet, so if you need something to be usefull now, look elsewhere**
 
+[Imgur](http://i.imgur.com/HULvqHi.png)
+
+[Imgur](http://i.imgur.com/yl7hLf9.gifv)
+
+[Imgur](http://i.imgur.com/ZxVBmI6.png)
+
 This is force layout diagram I made in C++ using OpenGL. It's works okay, but it could use some improvement. 
 I'm actually in process of turning this into a more robust Python library and hope to have that done in a month at most. 
 
