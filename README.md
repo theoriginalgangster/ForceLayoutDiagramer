@@ -19,7 +19,7 @@ You need to use the following flags like so:
 
 `g++ -std=c++11 graph.cpp -lglut -lGL -lGLEW -lGLU -o graph`
 
-Date is read in from `dataPoints.csv` which are currently random points (-1 < x < 1)
+Data is read in from `dataPoints.csv` which are currently random points (-1 < x < 1)
 
 Running 2D and 3D varry slightly in terms of specifying the stepping rate of the simulation. 
 
