@@ -2,7 +2,7 @@
 
 **I'm still in the process of turning this into a Python library, but feel free to run the code yourself. Right now, all data is read in from the data files included and node edges are defined in an adjacency matrix in the source code and not yet implementing it from the input file. This program uses OpenGL so you'll need to download and install that as well. Each folder contains an example you can run.**
 
-**Although forces on the nodes uses physics in a way, it is not proper physicis simulation as it is non-Hamiltonian and does not account for acceleration. But for the purposes of visualizing graphs, it is not necessary.**
+Although forces on the nodes uses physics in a way, it is not proper physicis simulation as it is non-Hamiltonian and does not account for acceleration and, for the purposes of visualizing graphs, is not necessary.
 
 ![](http://i.imgur.com/HULvqHi.png)
 
