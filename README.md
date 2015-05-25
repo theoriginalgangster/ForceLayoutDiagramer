@@ -1,6 +1,6 @@
 # ForceLayoutDiagramer
 
-**This project is still a work in progress and porbably won't be useful to anyone yet, so if you need something to be usefull now, look elsewhere**
+**I'm still in the process of turning this into a Python library, but feel free to run the code yourself. Right now, all data is read in from the data files included and node edges are defined in an adjacency matrix in the source code and not yet implementing it from the input file. This program uses OpenGL so you'll need to download that. Each folder contains an example you can run.**
 
 ![](http://i.imgur.com/HULvqHi.png)
 
