@@ -1,6 +1,6 @@
 # ForceLayoutDiagramer
 
-**I'm still in the process of turning this into a Python library, but feel free to run the code yourself. Right now, all data is read in from the data files included and node edges are defined in an adjacency matrix in the source code and not yet implementing it from the input file. This program uses OpenGL so you'll need to download and install that as well. Each folder contains an example you can run.**
+**I wrote this a long time ago and was planning on turning it into a Python library. It still looks pretty, but I'm going to re-write it all before anything happens. You'll need OpenGL to run this. Right now, all data is read in from the data files included and node edges are defined in an adjacency matrix in the source code and not yet implementing it from the input file. This program uses OpenGL so you'll need to download and install that as well. Each folder contains an example you can run.**
 
 Although forces on the nodes uses physics in a way, it is not proper physicis simulation as it is non-Hamiltonian and does not account for acceleration and, for the purposes of visualizing graphs, is not necessary.
 
